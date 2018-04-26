@@ -1,0 +1,12 @@
+{
+  "name": "powershop-jemena",
+  "version": "0.1.0",
+  "description": "Jemena has 30min delayed power usage stats, this is a tool to grab jemena stats and update powershop",
+  "main": "index.js",
+  "author": "Ryan Seddon <seddon.ryan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "puppeteer": "^1.3.0"
+  }
+}
